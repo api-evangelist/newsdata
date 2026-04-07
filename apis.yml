@@ -1,9 +1,9 @@
 aid: newsdata
 name: NewsData
 description: >-
-  Get live breaking news or search historical news data for the past 6 years
-  (since January 2018) from 82692  sources using NewsData.io API. Collect the
-  data in JSON or Excel Formats.SearchOrGet API Key 
+  Get live breaking news or search historical news data for the past 6 years (since
+  January 2018) from 82692 sources using NewsData.io API. Collect the data in JSON
+  or Excel Formats.SearchOrGet API Key.
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -19,9 +19,9 @@ apis:
   - aid: newsdata:newsdata
     name: NewsData
     description: >-
-      Get live breaking news or search historical news data for the past 6 years
-      (since January 2018) from 82692  sources using NewsData.io API. Collect
-      the data in JSON or Excel Formats.SearchOrGet API Key 
+      Get live breaking news or search historical news data for the past 6 years (since
+      January 2018) from 82692 sources using NewsData.io API. Collect the data in
+      JSON or Excel Formats.SearchOrGet API Key.
     humanURL: ' https://newsdata.io/'
     tags:
       - API
