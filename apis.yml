@@ -40,6 +40,10 @@ apis:
       - type: Pricing
         url: https://newsdata.io/pricing
 common:
+  - type: GitHubOrganization
+    url: https://github.com/newsdataapi
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/newsdata
   - type: Documentation
     name: NewsData Documentation
     description: Official API documentation for NewsData.io.
