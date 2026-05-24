@@ -56,6 +56,8 @@ common:
     name: NewsData Pricing
     description: Pricing tiers for the NewsData.io API.
     url: https://newsdata.io/pricing
+  - type: LLMsTxt
+    url: https://newsdata.io/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
