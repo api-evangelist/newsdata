@@ -35,7 +35,7 @@ apis:
     properties:
       - type: Documentation
         url: https://newsdata.io/documentation
-      - type: SignUp
+      - type: Signup
         url: https://newsdata.io/register
       - type: Pricing
         url: https://newsdata.io/pricing
@@ -48,7 +48,7 @@ common:
     name: NewsData Documentation
     description: Official API documentation for NewsData.io.
     url: https://newsdata.io/documentation
-  - type: SignUp
+  - type: Signup
     name: NewsData Sign Up
     description: Register for an API key to access the NewsData.io API.
     url: https://newsdata.io/register
@@ -56,7 +56,7 @@ common:
     name: NewsData Pricing
     description: Pricing tiers for the NewsData.io API.
     url: https://newsdata.io/pricing
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://newsdata.io/llms.txt
 maintainers:
   - FN: Kin Lane
