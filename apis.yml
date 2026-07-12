@@ -40,6 +40,8 @@ apis:
       - type: Pricing
         url: https://newsdata.io/pricing
 common:
+  - type: DomainSecurity
+    url: security/newsdata-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/newsdataapi
   - type: LinkedIn
@@ -58,6 +60,8 @@ common:
     url: https://newsdata.io/pricing
   - type: LlmsText
     url: https://newsdata.io/llms.txt
+  - url: https://newsdata.io/blog/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
