@@ -6,16 +6,28 @@ description: >-
   searching, filtering by source, language, country, and category, and returns
   results in JSON format suitable for analytics, monitoring, and AI training.
 type: Index
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/newsdata.png
 tags:
   - News
   - Media
   - Search
   - Content
 created: '2025-02-09'
-modified: '2026-04-28'
+modified: '2026-07-25'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/newsdata/refs/heads/main/apis.yml
 specificationVersion: '0.19'
