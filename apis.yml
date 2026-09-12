@@ -63,6 +63,8 @@ apis:
       - type: Pricing
         url: https://newsdata.io/pricing
 common:
+  - type: Website
+    url: https://www.newsdata.io/
   - type: DomainSecurity
     url: security/newsdata-domain-security.yml
   - type: GitHubOrganization
