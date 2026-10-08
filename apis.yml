@@ -63,6 +63,12 @@ apis:
       - type: Pricing
         url: https://newsdata.io/pricing
 common:
+  - type: Plans
+    url: plans/newsdata-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/newsdata-rate-limits.yml
+  - type: FinOps
+    url: finops/newsdata-finops.yml
   - type: Website
     url: https://www.newsdata.io/
   - type: DomainSecurity
